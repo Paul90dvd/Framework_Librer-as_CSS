@@ -1,0 +1,18 @@
+body {
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment:fixed;
+  width: 100%;
+  height: 100%;
+}
+.fondo_color {
+  background-color: #e0f0f7;
+}
+.imag_user {
+  width: 100%
+}
+.fondo_gris {
+  background-color:rgba(72,80,91, 0.5);
+}
